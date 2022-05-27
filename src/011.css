@@ -1,0 +1,12 @@
+
+.App-header {
+    background-color: #111;
+}
+
+
+.colourButton {
+    background-color: #ddd;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 8px;
+}

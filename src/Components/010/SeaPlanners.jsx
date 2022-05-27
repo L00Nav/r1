@@ -10,13 +10,5 @@ const seaPlaners = [
     {id: 9, type: 'car', name: 'ZIL', color: 'red'},
     {id: 10, type: 'man', name: 'Teta Toma', color: 'yellow'},
   ];
-  
 
-function Bala()
-{
-    return(
-        <div>{seaPlaners}</div>
-    );
-}
-
-export default Bala;
+  export default seaPlaners;

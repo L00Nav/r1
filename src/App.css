@@ -36,39 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-
-.firstShanpe {
-  width: 100px;
-  height: 100px;
-  margin: 10px 10px 25px 10px;
-  background-color: crimson;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.ExNr {
-  margin-bottom: 15px;
-}
-
-.calmDown {
-  margin: 0 0 10px 0;
-}
-
-.shanpeContainer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px;
-  flex-wrap: wrap;
-}
-
-.dogShanpe {
-  width: 150px;
-  height: 150px;
-}
-
-.round {
-  border-radius: 50%;
-}
